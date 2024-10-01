@@ -1,7 +1,5 @@
 # MultiThreadedProxyServer
 
-# Proxy Server
-
 ## Overview
 
 This project implements a multi-threaded HTTP proxy server in C that handles client requests and serves cached responses. It utilizes a simple cache mechanism with Least Recently Used (LRU) eviction policy, allowing efficient management of HTTP responses.
